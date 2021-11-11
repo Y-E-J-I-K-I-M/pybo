@@ -25,7 +25,7 @@ SECRET_KEY = 'dua#s!2&h(-mmmatv()x^sd#w3x$maxeu)a=j=%(v!%+(xd%5('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [52.78.67.138]
 
 
 # Application definition
